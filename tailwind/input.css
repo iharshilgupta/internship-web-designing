@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme default {
+  --color-neon-purple: #bc13fe;
+  --height-box:30rem;
+  --width-box:70rem;
+  --margin-top-top:10rem;
+  --margin-bottom-bot:10rem;
+  --height-cc:12rem;
+  --width-cd:20rem;
+  --text-smaa:4px;
+}
+
