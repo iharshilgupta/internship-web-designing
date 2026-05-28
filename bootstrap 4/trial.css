@@ -1,0 +1,38 @@
+.carousel-inner {
+  position: relative;
+  height: 32rem;
+}
+.carousel-item {
+  height: 32rem;
+  object-fit: cover;
+}
+.carousel-caption {
+  width: 200px;
+  z-index: 7;
+  color: white;
+  text-align: center;
+  top: 50%;
+  left: 65%;
+  bottom: auto;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+}
+#cc1{
+   top: 15%;
+  left: 25%;
+  bottom: auto;
+  transform: translate(0, -50%);
+}
+#cc2{
+   top: 60%;
+  left: 70%;
+  bottom: auto;
+  transform: translate(0, -50%);
+}
+#cc3{
+   top: 80%;
+  left: 25%;
+  bottom: auto;
+  transform: translate(0, -50%);
+}
